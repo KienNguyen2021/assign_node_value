@@ -49,6 +49,11 @@ using namespace std;
 // or :
 		cout << pNext1->pNext->datum << endl;     // 17
 
+// Print the address of Node 2, Node 2, Node 2....
+		
+		cout << pNext1 << endl;     //  0067F2B0
+		cout << pNext2 << endl;     //  0067F358
+		cout << pNext3 << endl;     //  0067F438
 		
 		cout << endl;
 		cout << endl;
